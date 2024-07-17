@@ -88,10 +88,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-  
-  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
-  <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
-  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
+
 </p>
 <br>
 
@@ -124,12 +121,12 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <!-- Bassed on: Repo info cards - https://github.com/HarshS1611/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/HarshS1611/solana-explorer"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=solana-explorer&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/HarshS1611/OrgHacks"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=OrgHacks&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/HarshS1611/solana-explorer"><img align="left" width="45%" height="150px" src=""></a>
+    <a href="https://github.com/HarshS1611/OrgHacks"><img align="right" width="45%" height="150px" src="" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/HarshS1611/blog-website"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=blog-website&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
   </p>
 </p>
