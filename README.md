@@ -97,7 +97,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
-  <code><a href="https://www.remix.ethereum.org/"><img alt="Remix" title="Remix" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" height="42"></a></code>
+  <code><a href="https://remix.ethereum.org/"><img alt="Remix" title="Remix" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
@@ -121,11 +121,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ## 📘 My top open source projects
 
-<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Bassed on: Repo info cards - https://github.com/HarshS1611/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/HarshS1611/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/HarshS1611/solana-explorer"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=solana-explorer&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/HarshS1611/OrgHacks"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=OrgHacks&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
