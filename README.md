@@ -120,21 +120,17 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Bassed on: Repo info cards - https://github.com/HarshS1611/github-readme-stats -->
 <p align="center">
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/HarshS1611/solana-explorer"><img align="left" width="45%" height="150px" src=""></a>
-    <a href="https://github.com/HarshS1611/OrgHacks"><img align="right" width="45%" height="150px" src="" alt="readme-typing-svg"></a>
+  <p style="width: 100%;" align="center">
+    <a href="https://github.com/HarshS1611/solana-explorer"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=solana-explorer&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true%22%20alt=%22readme-typing-svg"></a>
+    <a href="https://github.com/HarshS1611/OrgHacks"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=orghacks&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true%22%20alt=%22readme-typing-svg" alt="readme-typing-svg"></a>
   </p>
-  <p align="center">&#8192;</p>
-  <p style="widht: 100%;" align="center">
+  <p style="width: 100%;" align="center">
     <a href="https://github.com/HarshS1611/blog-website"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=blog-website&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+    <a href="https://github.com/HarshS1611/kryptiFi"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=HarshS1611&repo=kryptiFi&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
   </p>
 </p>
 
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-
-<p align="left">
+<p align="left" style="margin-top:5px">
   <a href="https://github.com/HarshS1611?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
