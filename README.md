@@ -62,10 +62,10 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           💬 Ask me about anything tech-related, and I am happy to help (if you have questions with full stack development you can ask me🐧);
         </li>
         <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/harsh-singh-7993bb1a3/)
+          📫 Feel free to contact me on ![LinkedIn](https://www.linkedin.com/in/harsh-singh-7993bb1a3/)
         </li>
         <li>
-          📝 Checkout my [Twitter](https://twitter.com/harshS_16) 
+          📝 Checkout my ![Twitter](https://twitter.com/harshS_16) 
         </li>
     </td>
 </table>
@@ -78,20 +78,12 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://nextjs.org"><img alt="NextJS" title="NextJS" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="42"></a></code>
   <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
-  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
+  <code><a href="https://soliditylang.org/"><img alt="Solidity" title="Solidity" src="[./assets/Bootstrap_logo.png](https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg)" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
 </p>
 <br>
-
-<h1 align="center"> Languages/Frameworks I'm learning: </h1>
-<p align="center">
-  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-
-</p>
-<br>
-
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
   <code><a href="https://remix.ethereum.org/"><img alt="Remix" title="Remix" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" height="42"></a></code>
