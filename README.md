@@ -30,34 +30,16 @@ ur welcome ;)
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-Eyyyy!!! <br />
-I am <b>David Vargas</b> better known as 'DavidsDvm'🕵🏼‍♂️ <br />
-I am from <strong>Colombiaaaaa 🇨🇴🇨🇴</strong> with an "o" not an "u"☕☕ <br />
-I'm a guy who love develop new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
+Heyy!!! <br />
+I am <b>Harsh Singh</b>. <br />
+I am from <strong>India 🇮🇳🇮🇳</strong>. <br />
+I'm a guy who loves to develop new things 🖥️ <br />
+I am a <b>full stack web3</b> developer with proficiency in NextJs and MERN stack in both web2 and web3 space with solidity as the medium for implementing smart contracts to build scalable, secure, and user-friendly web applications. 🚀🚀
+<br />
+If you are interested in a guy with a good vibe who loves knowledge and constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
 
-<!-- Bogota's weather table -->
-
-<h2 align="center"> 🇨🇴 Bogota's Weather ⛅ </h2>
-<table align="center" style="width:50%">
-    <tr style="text-align:center">
-        <th>Weather</th>
-        <th>Temperature</th>
-        <th>Sunrise</th>
-        <th>Sunset</th>
-        <th>Humidity</th>
-    </tr>
-    <tr style="text-align:center">
-        <td><b>few clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;02n.png></td>
-        <td><b>14°C</b></td>
-        <td><b>05:51 AM</b></td>
-        <td><b>06:13 PM</b></td>
-        <td><b>72%</b></td>
-    </tr>
-</table>
 
 ### 🧐 More About Me:
 <table style="border: none;">
@@ -68,25 +50,22 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           🔭 I’m currently studying at **SENA**
         </li>
         <li>
-          🤝 I’m looking to collaborate on Open Source Proyects
+          🤝 I’m looking to collaborate on Open Source projects and new opportunities.
         </li>
         <li>
-          🌱 I’m currently learning Django & NestJS; 
+          🌱 I’m currently learning Solidity.
         </li>
         <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/HarshS1611?tab=repositories)
         </li>
         <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+          💬 Ask me about anything tech-related, and I am happy to help (if you have questions with full stack development you can ask me🐧);
         </li>
         <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
+          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/harsh-singh-7993bb1a3/)
         </li>
         <li>
-          🎷 When I am free, I like to play the Sax
-        </li>
-        <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
+          📝 Checkout my [Twitter](https://twitter.com/harshS_16) 
         </li>
     </td>
     <td style="border: none;">
@@ -96,29 +75,24 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 </table>
 <br><br><br>
 
-<!-- languajes and skills section -->
+<!-- languages and skills section -->
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
-  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
-  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
-  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
+  <code><a href="https://nextjs.org"><img alt="NextJS" title="NextJS" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="42"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
-  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
-  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
 </p>
 <br>
 
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
-  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
+  
   <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
   <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
