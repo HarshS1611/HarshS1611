@@ -8,7 +8,7 @@ There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
-<a href="https://github.com/HarshS1611">![Harsh Profile GIF](./assets/profile_presentation.gif)</a>
+<a href="https://github.com/HarshS1611">![Harsh Profile GIF](./assets/profile.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
@@ -72,7 +72,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br><br><br>
 
 <!-- languages and skills section -->
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
