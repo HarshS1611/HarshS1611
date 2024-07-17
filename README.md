@@ -125,6 +125,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <p align="center">
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/HarshS1611/solana-explorer"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=solana-explorer&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/HarshS1611/solana-explorer"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=solana-explorer&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/HarshS1611/OrgHacks"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshS1611&repo=OrgHacks&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
