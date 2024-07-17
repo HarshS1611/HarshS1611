@@ -47,7 +47,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **SENA**
+          🔭 I’m a recent undergrad from <b>Vellore Institute of Technology, Vellore</b>.
         </li>
         <li>
           🤝 I’m looking to collaborate on Open Source projects and new opportunities.
@@ -68,10 +68,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           📝 Checkout my [Twitter](https://twitter.com/harshS_16) 
         </li>
     </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
-    </td>
-  </tr>
 </table>
 <br><br><br>
 
@@ -101,7 +97,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
-  <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
+  <code><a href="https://www.remix.ethereum.org/"><img alt="Remix" title="Remix" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
