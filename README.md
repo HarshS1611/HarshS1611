@@ -8,7 +8,7 @@ There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
-<a href="https://github.com/HarshS1611">![Harsh Profile GIF](./assets/profile.gif)</a>
+ <a align="center" href="https://github.com/HarshS1611">![Harsh Profile GIF](./assets/profile1.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
