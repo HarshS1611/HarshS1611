@@ -88,6 +88,9 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://soliditylang.org/" target="_blank"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://hardhat.org/" target="_blank"> <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo-dark.484eb916.svg&w=384&q=75" alt="react" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  </p>
 
 
