@@ -89,7 +89,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://soliditylang.org/" target="_blank"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
- <a href="https://hardhat.org/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/42/2/hardhat-logo-png_seeklogo-426726.png" alt="harhat" width="40" height="40"/> </a>
+ <a href="https://hardhat.org/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" alt="hardhat" width="40" height="40"/> </a>
  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="react" width="40" height="40"/> </a>
  </p>
 
