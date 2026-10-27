@@ -1,4 +1,3 @@
-<a align="center" href="https://github.com/HarshS1611"><img src="./assets/profile1.gif" alt="Harsh profile banner" width="100%"/></a>
 
 <p align="center">
   <a href="https://github.com/HarshS1611">
