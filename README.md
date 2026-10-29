@@ -25,7 +25,6 @@ Open to remote roles, and to relocating for the right role or fellowship.
 | | |
 |---|---|
 | 🧠 **Learning** | Andrej Karpathy's *Zero to Hero*: micrograd → makemore → GPT, built from scratch |
-| 🔐 **Training** | Rektoff Solana Security Bootcamp, cohort 6 |
 | 💼 **Looking for** | AI engineering and AI safety roles, remote or with relocation |
 
 ---
